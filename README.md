@@ -37,7 +37,7 @@ cd nome-da-pasta-do-projeto
 
 ### 2. Iniciar com Docker Compose
 
-Abra o terminal na pasta raiz do projeto (onde está o docker-compose.yml) e execute:
+Abra o terminal na pasta raiz do projeto (onde está o docker-compose.yml, neste caso é a pasta project) e execute:
 
 ```bash
 docker-compose up --build
