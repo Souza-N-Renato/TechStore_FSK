@@ -1,3 +1,6 @@
+
+<img width="1891" height="952" alt="image" src="https://github.com/user-attachments/assets/6be3ac83-8129-41da-a76f-7d562d6ce4d4" />
+
 # 🖥️ TechStore - E-commerce Fullstack
 
 Bem-vindo ao projeto TechStore! Este é um sistema completo de e-commerce de computadores, desenvolvido com React (Frontend), Flask (Backend) e MongoDB (Banco de Dados), totalmente conteinerizado com Docker.
@@ -108,9 +111,6 @@ docker-compose down
 docker-compose down -v (Apaga o volume mongo-data)
 
 > Reiniciar só o Backend
-
-
-<img width="1891" height="952" alt="image" src="https://github.com/user-attachments/assets/6be3ac83-8129-41da-a76f-7d562d6ce4d4" />
 
 
 
